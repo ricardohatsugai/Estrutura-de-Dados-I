@@ -3,4 +3,4 @@
 
 | Professor | Linguagem a ser utilizada | Horário |
 |--- |--- |--- |
-| Claudio Martins | C | Sextas-feiras às 19 horas |
+| Claudio Martins | <img src="/imagens/logoC.png" width="80"/> | Sextas-feiras às 19 horas |
