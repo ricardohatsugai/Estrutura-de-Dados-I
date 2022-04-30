@@ -1,5 +1,5 @@
 # Estrutura-de-Dados-I
-## *Disciplina Estrutura de Dados I - Professor Claudio Martins - UEG - Campus Trindade.*
+## *Disciplina Estrutura de Dados I - Professor M.Sc. Claudio Martins - UEG - Campus Trindade.*
 
 | Professor | Linguagem a ser utilizada | Horário |
 |--- |--- |--- |
