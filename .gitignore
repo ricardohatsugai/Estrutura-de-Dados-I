@@ -50,3 +50,17 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# CodeLite IDE
+*.mk
+*.project
+*.workspace
+compile_commands.json
+Makefile
+.codelite/
+*.session
+*.tags
+tags
+
+# Builds
+Debug/
