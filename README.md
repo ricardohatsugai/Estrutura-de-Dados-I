@@ -7,5 +7,6 @@
 
 ### *Aula 3 (13 de Maior de 2022) - Listas*
 <ol>
+  <li>Listas estáticas</li>
   <li>Listas ordenadas.</li>
 </ol>
