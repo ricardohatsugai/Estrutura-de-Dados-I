@@ -10,3 +10,8 @@
   <li>Listas estáticas</li>
   <li>Listas ordenadas.</li>
 </ol>
+
+### *Lista Linear*
+<h3>O que é uma lista Linear?</h3>
+<p>Estrutura de dados na qual <strong>cada elemento é precedido por um elemente e sucedido por outro</strong> (exceto o primeiro que não tem predecessor e o último que não tem sucessor).</p>
+<p>Os elementos estão em uma dada ordem (por exemplo, a ordem de inclusão ou ordenados por uma chave).</p>
