@@ -20,4 +20,4 @@
 <h3>O que é uma lista linear sequencial?</h3>
 <p>É uma <strong>lista linear</strong> na qual a <strong>ordem lógica</strong> dos elementos (a ordem "vista" pelo usuário) <b>é a mesma ordem física</b> (em memória principal) dos elementos. Isto é, elementos vizinhos na lista estarão em posições vizinhas de memória.</p>
 <p>Modelagem: Modelaremos usando um <strong>arranjo</strong> de registros; <b>Registros</b> conterão as informações de interesse do usuário;</p>
-<p>Nosso aranjoterá um <strong>tamanho fixo</strong> e controlaremos o número de elementos com uma <strong>variável adicional.</strong></p>
+<p>Nosso aranjo terá um <strong>tamanho fixo</strong> e controlaremos o número de elementos com uma <strong>variável adicional.</strong></p>
