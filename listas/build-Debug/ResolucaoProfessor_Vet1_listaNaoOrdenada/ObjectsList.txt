@@ -1,0 +1,1 @@
+../build-Debug/ResolucaoProfessor_Vet1_listaNaoOrdenada/main.c.o

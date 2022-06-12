@@ -1,0 +1,1 @@
+../build-Debug/ResolucaoProfessor_Vet2_listaNaoOrdenadaComParametro/main.c.o
