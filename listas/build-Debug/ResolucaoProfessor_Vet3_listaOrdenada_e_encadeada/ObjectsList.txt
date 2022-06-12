@@ -1,0 +1,1 @@
+../build-Debug/ResolucaoProfessor_Vet3_listaOrdenada_e_encadeada/main.c.o

@@ -1,1 +1,5 @@
-/opt/lampp/htdocs/Estrutura-de-Dados-I/listas/problema1/main.c
+/opt/lampp/htdocs/Estrutura-de-Dados-I/listas/ResolucaoProfessor_Vet3_listaOrdenada_e_encadeada/main.c
+/opt/lampp/htdocs/Estrutura-de-Dados-I/listas/ResolucaoProfessor_Vet2_listaNaoOrdenadaComParametro/main.c
+/opt/lampp/htdocs/Estrutura-de-Dados-I/listas/ResolucaoProfessor_Vet1_listaNaoOrdenada/main.c
+/opt/lampp/htdocs/Estrutura-de-Dados-I/listas/listaSimples/main.c
+/opt/lampp/htdocs/Estrutura-de-Dados-I/listas/listasEstatica/main.c
