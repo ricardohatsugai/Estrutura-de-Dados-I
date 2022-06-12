@@ -1,2 +1,1 @@
-/opt/lampp/htdocs/Estrutura-de-Dados-I/listas/listaSimples/main.c
-/opt/lampp/htdocs/Estrutura-de-Dados-I/listas/listasEstatica/main.c
+/opt/lampp/htdocs/Estrutura-de-Dados-I/listas/problema1/main.c
