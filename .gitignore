@@ -61,6 +61,8 @@ Makefile
 *.session
 *.tags
 tags
+*.db
+listas/.ctagsd/tags.db
 
 # Builds
 Debug/
