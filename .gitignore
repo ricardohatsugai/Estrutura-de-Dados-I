@@ -63,6 +63,7 @@ Makefile
 tags
 *.db
 listas/.ctagsd/tags.db
+*.txt
 
 # Builds
 Debug/

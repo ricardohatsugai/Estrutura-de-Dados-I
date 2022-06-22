@@ -1,1 +1,10 @@
 -I/opt/lampp/htdocs/Estrutura-de-Dados-I/listas/ResolucaoProfessor_Vet3_listaOrdenada_e_encadeada
+-I/usr/include/c++/10
+-I/usr/include/x86_64-linux-gnu/c++/10
+-I/usr/include/c++/10/backward
+-I/usr/lib/gcc/x86_64-linux-gnu/10/include
+-I/usr/local/include
+-I/usr/include/x86_64-linux-gnu
+-I/usr/include
+-target
+x86_64-linux-gnu
